@@ -50,13 +50,6 @@ I like turning rough ideas into things people can actually use: LLM tooling, ret
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## ✱ GitHub snapshot
-
-<p align="center">
-  <img height="170" alt="Himani's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=himani-2-git&show_icons=true&hide_border=true&bg_color=1f1714&title_color=fbc291&text_color=efe2d2&icon_color=9bb23f&ring_color=fbc291" />
-  <img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himani-2-git&layout=compact&hide_border=true&bg_color=1f1714&title_color=fbc291&text_color=efe2d2" />
-</p>
-
 <p align="center">
   <img src="assets/footer.svg" alt="Let's build" width="100%" />
 </p>
