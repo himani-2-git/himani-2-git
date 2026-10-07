@@ -25,6 +25,7 @@ I like turning rough ideas into things people can actually use: LLM tooling, ret
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
+| [**Almira**](https://github.com/himani-2-git/almira) · [live](https://almira.himanint21.workers.dev) | Unisex wardrobe companion that helps you organize your clothes, build outfits and discover fresh combinations, with layouts for phone and desktop. Supabase auth is in place and AI styling is in development. | `React` `TypeScript` `Vite` `Supabase` |
 | [**Fragments**](https://github.com/himani-2-git/Fragments) | Personal photo gallery controlled entirely by hand gestures. Swipe to browse, pinch to focus. No frameworks, no build step. | `JavaScript` `MediaPipe Hands` |
 | [**GenAI-Prompt-Evaluation-Lab**](https://github.com/himani-2-git/GenAI-Prompt-Evaluation-Lab) | Interactive lab for designing, testing and evaluating LLM prompts with side-by-side comparisons and token and latency benchmarks. | `Python` `Gemini` `Streamlit` |
 | [**labcopilot-portal**](https://github.com/himani-2-git/labcopilot-portal) | AI-assisted lab workflow portal prototype for hospital labs, connecting patients, orders, specimens and results. | `TypeScript` |
@@ -40,6 +41,9 @@ I like turning rough ideas into things people can actually use: LLM tooling, ret
   <img src="https://img.shields.io/badge/Python-1f1714?style=for-the-badge&logo=python&logoColor=fbc291" alt="Python" />
   <img src="https://img.shields.io/badge/JavaScript-1f1714?style=for-the-badge&logo=javascript&logoColor=fbc291" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-1f1714?style=for-the-badge&logo=typescript&logoColor=fbc291" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-1f1714?style=for-the-badge&logo=react&logoColor=fbc291" alt="React" />
+  <img src="https://img.shields.io/badge/Supabase-1f1714?style=for-the-badge&logo=supabase&logoColor=fbc291" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Vite-1f1714?style=for-the-badge&logo=vite&logoColor=fbc291" alt="Vite" />
   <img src="https://img.shields.io/badge/HTML5-1f1714?style=for-the-badge&logo=html5&logoColor=fbc291" alt="HTML" />
   <img src="https://img.shields.io/badge/Streamlit-1f1714?style=for-the-badge&logo=streamlit&logoColor=fbc291" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Google%20Gemini-1f1714?style=for-the-badge&logo=googlegemini&logoColor=fbc291" alt="Gemini" />
